@@ -145,6 +145,8 @@ h2 {
   place-items: center;
 
   background-color: white;
+ 
+  box-sizing: border-box;
 }
 
 .project-list .project h3 {
