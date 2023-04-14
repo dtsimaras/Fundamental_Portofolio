@@ -6,6 +6,10 @@
   font-size: 1rem;
 }
 
+html {
+   scroll-behavior: smooth;
+}
+
 p,
 h2,
 h3 {
